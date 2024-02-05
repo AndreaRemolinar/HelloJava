@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="text_view_nom">Nom :</string>
+    <string name="text_view_prenom">Prénom :</string>
+    <string name="btn_suivant">Suivant</string>
+    <string name="btn_precedent">Précédent</string>
+</resources>
